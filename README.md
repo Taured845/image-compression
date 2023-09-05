@@ -1,1 +1,1 @@
-# image-compression
+采用SVD和非负矩阵分解的方法对mnist数据集中图片进行压缩，详情见instructions.pdf
